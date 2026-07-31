@@ -1,0 +1,6 @@
+{
+  "name": "ATM Machine",
+  "description": "An interactive ATM machine web application supporting card verification, balance inquiry, cash withdrawal, deposit, and mini statement history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
